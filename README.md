@@ -1,4 +1,4 @@
-# Arna: A Multipurpose Database of One Thousand and One Documents for Persian Document Analysis :boom: :100:
+# Arna: A Multipurpose Database of One Thousand and One Documents for Persian Document Analysis :boom:🕊️
   <div align="center">
     <img src="https://github.com/user-attachments/assets/dd890e30-426c-40fb-a81f-948855d885df" alt="Picture2" width="600">
 </div>
@@ -21,4 +21,7 @@ The following table summarizes the main features of the Arna dataset.
 
 </div>
 ### 3. how To Access 🤔
-Applicants wishing to access the Arna dataset are kindly invited to visit the [here](https://github.com) to access the dataset. GitHub.
+Applicants wishing to access the Arna dataset are kindly invited to visit the [Google Drive](LINK) to access the dataset.
+
+### 4. Citation
+If you find this data useful, please consider citing our paper🙏🌹.
